@@ -48,11 +48,11 @@ All of the modules and supporting material for this course are hosted on github 
 
 Table of Contents
 ---
-1. Getting Started
-2. Python Data Tools
-3. Data Storage
-4. Data Collection
-5. Data Cleaning
-6. Exploring Data
-7. Statistical Methods
-8. Web Apps with Spyre
+- [0.Getting Started](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/0_Getting_Started.ipynb)
+- [1.Python Data Tools](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/1_Python_Data_Tools.ipynb)
+- [2.Data Storage](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/2_Storing_Data_Module.ipynb)
+- [3.Data Collection](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/3_Data_Collection.ipynb)
+- [4.Data Cleaning](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/4_Data_Cleaning.ipynb)
+- [5.Exploring Data](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/5_Exploring_Data.ipynb)
+- 6.Statistical Methods
+- 7.Web Apps with Spyre
