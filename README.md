@@ -2,8 +2,6 @@ Introduction to Data Science
 ====
 Welcome to our Introduction to Data Science. I've broken the material up into [N] modules that are inteded to be executed sequentially. I expect that people will come to this material with different backgrounds and different levels of experience, so feel free to skip any of the modules for the material that you're already comfortable with.
 
-[more on what's included]
-
 There's a table of contents at the bottom of this notebook for those who want to skip ahead and browse what's available here.
 
 Python
@@ -11,13 +9,15 @@ Python
 Throughout this course we'll be putting together a "data science toolbox", a set of resouces that you'll use to collect, clean, store, explore, visualize, and analyze data. There are several good platforms for doing these tasks, and in this tutorial we'll be using the Python programming language for almost all of them.
 
 Python's major advantages are that
+
 1. it's free
 2. it's easy to learn and use
 3. there's a Python library that solves almost every problem we'll come up against
 
-Python comes with a core set of libraries, but a number of the data tools we'll need are not included. You could download the libraries for these tools one-by-one, but there are a number of dependencies that make this process a little bit tedious. Instead, I recommend downloading the Anaconda distribution of Python provided by Continuum Analytics [link]. It comes with almost all of the libraries you'll ever need *and* it takes care of all of the dependency issues that would otherwise make you hate your life.
+Python comes with a core set of libraries, but a number of the data tools we'll need are not included. You could download the libraries for these tools one-by-one, but there are a number of dependencies that make this process a little bit tedious. Instead, I recommend downloading the [Anaconda distribution of Python provided by Continuum Analytics](https://docs.continuum.io/anaconda/install). It comes with almost all of the libraries you'll ever need *and* it takes care of all of the dependency issues that would otherwise make you hate your life.
 
 There aren't many pre-requisites for this course, but basic familiarity of Python is one of them. There are two online tutorials that I recommend:
+
 1. https://docs.python.org/2/tutorial/index.html
 2. http://www.codecademy.com/en/tracks/python
 
@@ -48,6 +48,7 @@ All of the modules and supporting material for this course are hosted on github 
 
 Table of Contents
 ---
+<<<<<<< HEAD
 1. Getting Started
 2. Python Data Tools
 3. Data Storage
@@ -56,3 +57,13 @@ Table of Contents
 6. Statistical Methods
 7. Data Cleaning
 8. Web Apps with Spyre
+=======
+- [0.Getting Started](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/0_Getting_Started.ipynb)
+- [1.Python Data Tools](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/1_Python_Data_Tools.ipynb)
+- [2.Data Storage](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/2_Storing_Data_Module.ipynb)
+- [3.Data Collection](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/3_Data_Collection.ipynb)
+- [4.Data Cleaning](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/4_Data_Cleaning.ipynb)
+- [5.Exploring Data](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/5_Exploring_Data.ipynb)
+- 6.Statistical Methods
+- 7.Web Apps with Spyre
+>>>>>>> 92a7bb08e41ada18471145f4bcdc4d6d186f0343
