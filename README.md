@@ -1,6 +1,6 @@
 Introduction to Data Science
 ====
-Welcome to our Introduction to Data Science. I've broken the material up into [N] modules that are inteded to be executed sequentially. I expect that people will come to this material with different backgrounds and different levels of experience, so feel free to skip any of the modules for the material that you're already comfortable with.
+Welcome to our Introduction to Data Science. I've broken the material up into 7 modules that are inteded to be executed sequentially. I expect that people will come to this material with different backgrounds and different levels of experience, so feel free to skip any of the modules for the material that you're already comfortable with.
 
 There's a table of contents at the bottom of this notebook for those who want to skip ahead and browse what's available here.
 
@@ -44,26 +44,15 @@ Anaconda also comes with an interactive browser-based editor called Jupyter that
 
 Github
 --
-All of the modules and supporting material for this course are hosted on github here: [link]. If you don't already have one, setup a github account, fork this repo [link], and clone your forked copy of the repo to whatever computers you'll be working from.
+All of the modules and supporting material for this course are hosted on github here: [https://github.com/adamhajari/Introduction-to-Data-Science]. If you don't already have one, setup a github account, fork this repo [https://help.github.com/articles/fork-a-repo/], and clone your forked copy of the repo to whatever computers you'll be working from.
 
 Table of Contents
 ---
-<<<<<<< HEAD
-1. Getting Started
-2. Python Data Tools
-3. Data Storage
-4. Data Collection
-5. Exploring Data
-6. Statistical Methods
-7. Data Cleaning
-8. Web Apps with Spyre
-=======
 - [0.Getting Started](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/0_Getting_Started.ipynb)
 - [1.Python Data Tools](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/1_Python_Data_Tools.ipynb)
 - [2.Data Storage](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/2_Storing_Data_Module.ipynb)
 - [3.Data Collection](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/3_Data_Collection.ipynb)
-- [4.Data Cleaning](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/4_Data_Cleaning.ipynb)
-- [5.Exploring Data](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/5_Exploring_Data.ipynb)
-- 6.Statistical Methods
-- 7.Web Apps with Spyre
->>>>>>> 92a7bb08e41ada18471145f4bcdc4d6d186f0343
+- [4.Exploring Data](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/4_Exploring_Data.ipynb)
+- [5.Data Analysis](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/5_Data_Analysis.ipynb)
+- [6.Data Cleaning](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/6_Data_Cleaning.ipynb)
+- [7.Web Apps with Spyre](https://github.com/adamhajari/Introduction-to-Data-Science/blob/master/7_Web_Apps.ipynb)
