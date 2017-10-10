@@ -33,13 +33,13 @@ Getting to the command line will be slightly different depending on whether you'
 
 On Mac you'll use the Terminal app. On Windows you'll open the Command Prompt program. If you're using Linux, I'll assume you've already skipped this section. Regardless of whether you'r on Mac, Windows, or Linux, I'll be referring to your command line tool as a "terminal".
 
-IPython and IPython Notebook
+IPython and Jupyter Notebooks
 --
 IPython is an alternative command line tool to the one that comes with python. It's part of the Anaconda python distribution, so if you've installed Anaconda you can open an ipython shell just by typing ipython in your terminal window.
 
 The ipython shell has all of the functionality of the regular python shell, plus several handy extras. The two features that you'll probably find most helpful are tab completion and built in object descriptions [http://ipython.org/ipython-doc/stable/interactive/tutorial.html#tab-completion].
 
-IPython also comes with an interactive browser based editor that combines code execution, plots, and text formatting. It's a great tool for both exploring data and sharing your results. All of the modules for this course are written in ipython notebooks which allows you to execute all of the examples in your browser and explore the results yourself.
+Anaconda also comes with an interactive browser-based editor called Jupyter that combines code execution, plots, and text formatting. It's a great tool for both exploring data, sharing your results, and learning how to use new python tools. Jupyter notebooks are essentially running ipython in your browser so all the features available in ipython are also available in jupyter notebooks. All of the modules for this course are written in jupyter notebooks which allows you to execute all of the examples in your browser and explore the results yourself.
 
 
 Github
@@ -52,7 +52,7 @@ Table of Contents
 2. Python Data Tools
 3. Data Storage
 4. Data Collection
-5. Data Cleaning
-6. Exploring Data
-7. Statistical Methods
+5. Exploring Data
+6. Statistical Methods
+7. Data Cleaning
 8. Web Apps with Spyre
