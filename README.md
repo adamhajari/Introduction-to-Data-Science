@@ -1,6 +1,6 @@
 Introduction to Data Science
 ====
-Welcome to our Introduction to Data Science. I've broken the material up into 7 modules that are inteded to be executed sequentially. I expect that people will come to this material with different backgrounds and different levels of experience, so feel free to skip any of the modules for the material that you're already comfortable with.
+Welcome to my Introduction to Data Science. I've broken the material into 7 modules that are inteded to be executed sequentially. I expect that people will come to this material with different backgrounds and different levels of experience, so feel free to skip any of the modules for the material that you're already comfortable with.
 
 There's a table of contents at the bottom of this notebook for those who want to skip ahead and browse what's available here.
 
